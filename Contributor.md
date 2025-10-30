@@ -247,3 +247,6 @@ Added solution for custom range slider
     - Added Solution for Leetcode Q860 Lemonade Change.
     - Added Solution for Leetcode Q875 koko eating  bananas
     - Added a simple Hand Cricket Game using HTML, CSS and JS
+
+44. 1. Wangari Jane | [LinkedIn](https://www.https://www.linkedin.com/in/jane-wangari-32b284345/) | [GitHub](https://github.com/Wangarijane) 
+    - Fixed typos and formatting in README
