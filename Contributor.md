@@ -252,3 +252,6 @@ Added solution for custom range slider
 
 44. 1. Wangari Jane | [LinkedIn](https://www.https://www.linkedin.com/in/jane-wangari-32b284345/) | [GitHub](https://github.com/Wangarijane) 
     - Fixed typos and formatting in README
+
+45. Niranjan patil  | [LinkedIn](https://www.linkedin.com/in/niranjan-patil-8512a1374) | [GitHub](https://github.com/niranjanpatil1010)
+     - Added Solution for Leetcode Q35 search insert position
