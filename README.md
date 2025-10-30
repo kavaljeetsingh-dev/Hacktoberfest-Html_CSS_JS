@@ -61,7 +61,7 @@ git push origin feature/your-feature-name
 - Select your branch from your forked repository
 - Add a descriptive title and explanation of your changes
 - Submit the pull request!
-🧾 Add Yourself to the Contributors List
+- 🧾 Add Yourself to the Contributors List
 
 After submitting your contribution, add yourself to Contributor.md:
 Format:
@@ -72,13 +72,13 @@ Example:
 1. Harshit Pachori | [LinkedIn](https://www.linkedin.com/in/harshitpachori) | [GitHub](https://github.com/HarshitPachori) 
     - Added Bento Grid example in HTML/CSS
 
-#### **Note :** If your name is already there, then just move to next line add two tab  and add your next work intro. Ensure no duplicate entry should be there.
+#### **Note :** If your name is already there, then just move to next line add two tabs and add your next work intro. Ensure no duplicate entry should be there.
 
 ## 📁 Folder Structure Details
 - HTML Directory: Contains the HTML files you want to share
 - CSS Directory: Stylesheets for styling the web pages
 - JS Directory: JavaScript files for adding interactivity and functionality
-- DSA Directory: Contains all DSA related problems topic wise in js language
+- DSA Directory: Contains all DSA related problems topic-wise in js language
 
 ## 📋 Hacktoberfest Guidelines
 - ✅ Make meaningful contributions - avoid spammy PRs
