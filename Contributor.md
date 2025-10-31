@@ -260,3 +260,4 @@ Added solution for custom range slider
 46. Kavaljeet Singh Ahuja | [LinkedIn](https://www.linkedin.com/in/kavaljeet-singh-a76383334/) | [GitHub](https://github.com/kavaljeetsingh-dev)  
    - Added solution for LeetCode Q142 Detect Cycle in Linked List  
    - Added main function and detailed comments for better understanding
+   - Added Tik tak toe game using Html,css,js
